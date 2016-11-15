@@ -1,0 +1,16 @@
+#sel_domain { display: inline; width: 80%; }
+.use_bulk_wrap { float: right; padding: 6px 18px 0 0; }
+#note code { cursor: pointer; }
+.process span { font-weight: bold; }
+.helper { padding-right: 10px; }
+.popover-title { font-weight: bold; }
+.popover { min-width: 400px; max-width: 500px; }
+.bulk_categories.btn-wr, .csv_wholesale_file.btn-wr { float: right; margin: -5px 17px 0px 0px; }
+#bulk_categories .modal-dialog, #csv_wholesale .modal-dialog { width: 900px; }
+.bulk_list_trigger { cursor: pointer; }
+.bulk_list_trigger:hover { text-decoration: underline; }
+#site_url { display: inline-block; font-size: 28px; margin: -6px 0 0 10px; vertical-align: middle; }
+#site_url:hover { text-decoration: none; }
+.bootstrap-select.form-control:not([class*="col-"]) { width: 60%; }
+#sw_select_wr { display: inline-block; width: 250px; margin-right: 15px; }
+#sw_select_wr .bootstrap-select { width: 100%; }

@@ -1,0 +1,13 @@
+body { padding-top: 65px; }
+.table td, .table th, .table tbody>tr>td.vert-align,  .table thead>tr>th.vert-align {
+	text-align: center;
+	vertical-align: middle;
+}
+.navbar-inverse .navbar-nav > li > a { color: #FFFFFF; }
+.navbar-inverse .navbar-nav > li > a.active { color: #20709A; }
+.nav > li > a { padding-left: 10px; padding-right: 10px; }
+.v_daterange { color: black; font-size: x-small; font-weight: bold; }
+.filter_block span { width: 150px; display: inline-block; }
+.filter_block input[type="button"] { width: 70px; }
+#saved_filters, #new_filter_set_name { width: 260px; }
+.filter_block select, .filter_block input, .filter_block button { display: inline-block; }
